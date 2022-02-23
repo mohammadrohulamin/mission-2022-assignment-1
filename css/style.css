@@ -1,0 +1,104 @@
+body{
+    font-family: 'Roboto Serif', sans-serif;
+    margin: 0;
+}
+.top-section{
+    display: flex;
+}
+p{
+    font-size: 20px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
+.half-width img{
+    width: 70%;
+}
+.half-width h1{
+    font-size: 60px;
+    line-height: 25px;
+    padding-left: 15px;
+}
+.stay-title{
+    border-left: 3px solid red;
+}
+.mission-color{
+    color: orange;
+}
+.button-color{
+    text-decoration: none;
+    background-color: red;
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.center-title{
+    text-align: center;
+    font-size: 60px;
+}
+.center-title span{
+    color: orange;
+}
+.center-section{
+    display: flex;
+    margin: 0 10%;
+}
+.flex-box{
+    width: 25%;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 30px;
+}
+.box-color-1{
+    background-color: rgba(7, 7, 231, 0.13);
+}
+.box-color-2{
+    background-color: rgba(255, 235, 205, 0.829);
+}
+.box-color-3{
+    background-color: antiquewhite;
+}
+.img-div img{
+    width: 150px;
+}
+.codding-section{
+    display: flex;
+    margin-top: 100px;
+}
+.codding-width img{
+    width: 50%;
+    padding-left: 20%;
+}
+.codding-width h1{
+    font-size: 40px;
+}
+.codding-width{
+    padding-right: 80px;
+}
+.Community-section{
+    display: flex;
+    margin-top: 80px;
+    margin-left: 10%;
+}
+.Community-section img{
+    width: 50%;
+    padding-left: 20%;
+}
+.Community-section h1{
+    font-size: 40px;
+}
+.footer-section{
+    font-size: 25px;
+}
+.footer-section{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 200px;
+    padding-top: 20px;
+}
+.footer-section span{
+    color: red;
+}
